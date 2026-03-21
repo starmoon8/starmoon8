@@ -7,4 +7,9 @@
 
 
 
+# I was gonna learn to code, then i realized i can play chess while ai does the coding for me 
+
+
+
+
 ![zz1](https://github.com/user-attachments/assets/f7190790-67c3-450c-852d-47a4a3698fd9)
