@@ -7,7 +7,7 @@
 
 
 
-# I was going to learn to actually code-, then realized i can play chess while ai does the coding. weeeeeeee! 
+# It was a dark, stormy night. It was the best of times, it was the worst of times. I was learning Rust. Suddenly, the lightning hit me right in the nads. After waking up from the coma, things were never the same. I ended up playing chess and catching up on tv shows while ai did all the coding. weeeeeeee! 
 I am so thankful for ai. The tech content makers who make ppl stupider with every video or post are now irrelevant. They always were irrelevant, but now they know that we know that they know !!  :) 
 
 
