@@ -8,7 +8,7 @@
 
 
 # I was gonna learn to code, then i realized i can play chess while ai does the coding. weeeeeeee! 
-I am so thankful for ai. The tech content makers who make ppl stupider with every video or post are now irrelevant. They always were, but now they know that we know :) 
+I am so thankful for ai. The tech content makers who make ppl stupider with every video or post are now irrelevant. They always were irrelevant, but now they know that we know :) 
 
 
 
