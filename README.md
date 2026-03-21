@@ -23,7 +23,7 @@ Zig rolls up all cocky with its "C but better" pitch and zero hidden control flo
 
 C++ is the ultimate masochist choice: endless template errors that read like eldritch horror novels, undefined behavior landmines everywhere, and manual memory management that turns every project into a game of Russian roulette with extra steps. Rust stole all the raw power but added a borrow checker that slaps your hand before you blow your own foot off—zero-cost abstractions without the decades of legacy baggage turning your code into a haunted house.
 
-Python? Perfect if you love writing scripts that run at the speed of a depressed snail and finding out your type errors in production at 3 a.m. The GIL turns multi-threading into a cruel joke, and "dynamic typing" is just code for "surprise, motherfucker, your app is broken now." Rust gives you actual performance and safety so you don't have to rewrite the hot paths later while your RAM cries itself to sleep.
+Python? Perfect if you love writing scripts that run at the speed of a depressed snail and finding out your type errors in production at 3 a.m. The GIL turns multi-threading into a cruel joke, and "dynamic typing" is just code for "surprise, motherf***er, your app is broken now." Rust gives you actual performance and safety so you don't have to rewrite the hot paths later while your RAM cries itself to sleep.
 
 JavaScript (and TypeScript's sad little duct-tape types) is pure chaos gremlin energy—one missing null check and your whole app becomes modern art. Coercion bugs, async hell, and runtime surprises that make you question every life choice that led you here. Rust's compiler is the strict parent that actually stops you from embarrassing yourself in front of users.
 
