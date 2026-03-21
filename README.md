@@ -17,7 +17,7 @@ I am so thankful for ai. The tech content makers who make ppl stupider with ever
 
 
 
-# People keep asking why I only vibe with Rust - tldr cuz i have common sense. 
+# People keep asking why I only vibe with Rust - tldr cuz i have basic common sense. 
 
 Sure, Go tempts you with its clean syntax and goroutines that make concurrency look like child's play. But then its garbage collector wakes up and decides to freeze your entire application at the worst possible moment, like that one friend who always ruins the party with a surprise existential crisis. It's stupid easy to learn, I'll give it that—but easy comes with a price. There's no magic easy button; you get runtime surprises, "good enough" performance, and a nagging sense that you're settling while Rust hands you compile-time guarantees, zero overhead, and speed that actually matters without the random pauses turning your production deploy into a game of Russian roulette.
 
