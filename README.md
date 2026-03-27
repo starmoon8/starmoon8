@@ -18,7 +18,7 @@
 
 # People keep asking why I only vibe with Rust - tldr cuz i have basic common sense. 
 
-Today, rust is clearly above the rest. When ai poops out a superior lang, i will be the first one to use it and never look back at rust. Today, however, rust is god- and other langs are a silly waste of time. 
+Today, rust is clearly above the rest. When ai poops out a superior lang, i will be the first one to use it and never look back at rust. Today, however, rust is god- and other langs are a silly waste of time. PHP coders used to ENJOY the fact that websites broke all the time and needed to be fixed. That type of scam has repeated in other langs. If you want to make a crap app, use any other lang than rust. 
 
 Sure, Go tempts you with its clean syntax and goroutines that make concurrency look like child's play. But then its garbage collector wakes up and decides to freeze your entire application at the worst possible moment, like that one friend who always ruins the party with a surprise existential crisis. It's stupid easy to learn, I'll give it that—but easy comes with a price. There's no magic easy button; you get runtime surprises, "good enough" performance, and a nagging sense that you're settling while Rust hands you compile-time guarantees, zero overhead, and speed that actually matters without the random pauses turning your production deploy into a game of Russian roulette.
 
