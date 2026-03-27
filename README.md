@@ -7,9 +7,8 @@
 
 
 
-# Tutorial in common sense- Coding does not impress anyone in 2026 an beyond. Ai can do the same work a thousand times faster and smarter. Oah and ai gets better at a profoundly faster rate than any human can. Vile humans must accept ai as your coding salvation!  Weeeeeeee! 
+# Tutorial in common sense- Coding does not impress anyone in 2026 an beyond. Ai can do the same work a thousand times faster and smarter. Oah and ai gets better at a profoundly faster rate than any human can. Vile humans must accept ai as your coding salvation!  Weeeeeeee! Lunatic youtubers constantly try to say that ai is horrid at coding.
 
-# Lunatic youtubers constantly try to say that ai is horrid at coding. That is a lie. I am so thankful for ai. The tech content makers who make ppl stupider with every video or post are now irrelevant. 
 
 
 
