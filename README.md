@@ -30,11 +30,6 @@
 
 
 
-Tutorial in common sense- Coding does not impress anyone in 2026 an beyond. Ai can do the same work a thousand times faster and smarter. Lunatic youtubers constantly try to say that ai is horrid at coding. Meanwhile, in reality, ai gets better at a profoundly rapid rate and is far superior to the LIMITED fragile human brain.  Weeeeeeee! 
-
-
-
-
 # People keep asking why I only vibe with Rust - tldr cuz i have basic common sense. DUHHHH !! 
 **Rust + AI: The Ultimate Power Couple That Makes Coding Accessible to Everyone (And Why Every Other Language Is Now Just Coping)**
 
