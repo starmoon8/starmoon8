@@ -88,6 +88,8 @@ Choose Rust or keep coping. The rest are legacy traps, slow toys, or future disa
 
 Learn to discern. Rust is the alpha predator, and anything less is just silly. If you do not discern and you tout go or c or something like that, you are either a liar or incredibly foolish and delusional. The ONLY way to attack the clear objective benefits of rust is to lie about how good the old inferior langs are. Good luck with that. 
 
+When the internet was massively shifting away from personal websites, plenty of vile companies knew so, yet were selling the vile pipe dream of starting a personal web site that would flourish. 
+
 Course makers will hype this lang and that one. You will hear how Python is the future and JS is all that matters. All of it is laughable. Wake up. It is all mostly a scam. OF COURSE anyone making money wants to hype the money source. The TRUTH is that you CAN NOT compete with the objective reality of Rust. Very objectively, Rust and any future langs that are equal to or better than Rust are truly superior. 
 
 
