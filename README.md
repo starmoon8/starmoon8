@@ -89,7 +89,7 @@ As you progress build small projects to solidify your knowledge such as a comman
 Practice consistently by rewriting simple programs you know from other languages in Rust focusing on letting the borrow checker guide your design rather than fighting it. Over time you will internalize the patterns and appreciate how Rust’s strictness leads to code that is not only correct but also clear maintainable and blazingly fast. Welcome to the Rust community and happy coding as you continue exploring the language that many consider the future of systems programming.
 
 
-# Even faster way... use ai to learn rust in 1 minute or less !! 
+# Even faster way... use ai to learn rust in 1 minute or less !! (the average person is a rust expert in a half minute or less) 
 
 
 
