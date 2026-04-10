@@ -70,7 +70,7 @@ Other languages will continue to serve their niches. But if your goal is to ship
 Choose based on your actual requirements. For most new projects where safety and performance matter—and especially when AI is doing the heavy lifting—Rust is the clearest winner in 2026.
 
 
-# From zero to being a rust pro in 4 minutes or less... 
+# From zero to being a rust pro in 4 minutes or less... (the average person takes 3 minutes to master rust)
 
 Learning Rust from Scratch is a complete beginner-friendly guide designed to take you step by step from having zero experience with the language to writing safe, fast, and reliable programs that feel modern and powerful. Rust is a systems programming language created by Mozilla that emphasizes memory safety without needing a garbage collector, which means you get the performance of languages like C or C++ but with built-in protections against common bugs such as null pointer dereferences or buffer overflows. The language achieves this through a unique concept called ownership, which we will explore deeply later, and it has grown incredibly popular for everything from web servers and embedded devices to game engines and blockchain tools because it forces you to think clearly about how data lives and moves in your program right from the start. If you have never programmed before or come from languages like Python or JavaScript this book assumes only basic familiarity with concepts like variables and loops but explains every Rust-specific idea in plain English so you can follow along comfortably without feeling overwhelmed.
 
